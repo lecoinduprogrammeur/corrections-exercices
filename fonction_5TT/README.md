@@ -1,3 +1,4 @@
+26 mars 2020  
 Bonjour à tous,  
 Pour le dimanche 29 à 23H59  
 J'aimerais que vous m'envoyez un script muni d'une fonction qui ajoute les données suivantes dans une liste : Nom, Prénom, âge, profession, adresse complète.  
