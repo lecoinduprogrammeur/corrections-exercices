@@ -8,12 +8,12 @@ L'adresse complète doit figurer sous la forme 1/rue d'Arlon/1030/Schaerbeek.
 
 Ce script servira de base pour un stockage dans une liste intitulée Annuaire.
 
-Votre prénom ? fabrice
-Votre nom de famille ? dumont
-Votre âge ? 50
-Votre adresse complète :
-Votre numéro ? 11
-Votre rue - boulevard - avenue ? rue du chêne
-Votre code postal ? 1030
-Votre ville ou village ? Schaerbeek
+Votre prénom ? fabrice  
+Votre nom de famille ? dumont  
+Votre âge ? 50  
+Votre adresse complète :  
+Votre numéro ? 11  
+Votre rue - boulevard - avenue ? rue du chêne  
+Votre code postal ? 1030  
+Votre ville ou village ? Schaerbeek  
 ['Fabrice', 'Dumont', 50, '11/rue du chêne/1030/Schaerbeek']
